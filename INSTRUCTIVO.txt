@@ -1,0 +1,5 @@
+1. Abrir Documento llamado MAPA CONCESIONES CORTOLIMA
+2. Esperar 1-3 minutos para que cargue la visualización
+3. Sección superior Izquierda Capas. Se recomienda desactivar Capa Drenajes si el mapa esta lento
+4. Sección zoom, medir, buscar lugares, y buscador con símbolo de binoculares para buscar el predio o la captación con el nombre y razón social
+5. si no carga el mapa base de openestrepmap descativar y probar  Google hybrid
